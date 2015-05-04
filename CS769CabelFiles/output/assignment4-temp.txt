@@ -1,0 +1,1676 @@
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:2 docCosine:0.21596401270518967
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:5 docCosine:0.33135773736671503
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:6 docCosine:0.24997158440301906
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:7 docCosine:0.11339803092438971
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:9 docCosine:0.09878517661062668
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:11 docCosine:0.17357467360211584
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:12 docCosine:0.9175785695621229
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:13 docCosine:0.6814684525358061
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:14 docCosine:0.39029963758392466
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:19 docCosine:0.11798518120299321
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:20 docCosine:0.15925559143601997
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:21 docCosine:0.25974246806760837
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:22 docCosine:0.1698592770759954
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:23 docCosine:0.2681172705727433
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:24 docCosine:0.3028653160123792
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:25 docCosine:0.30898286631191124
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:27 docCosine:0.25509223893151944
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:28 docCosine:0.17884172730244952
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:29 docCosine:0.44011376697175997
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:30 docCosine:0.18886798628708007
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:32 docCosine:0.08302984721646448
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:33 docCosine:0.2261424355328445
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:34 docCosine:0.15227771817025865
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:35 docCosine:0.08809095684307172
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:36 docCosine:0.3393652657378714
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:37 docCosine:0.1885671920387358
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:38 docCosine:0.21635447580974665
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:40 docCosine:0.15963510028393954
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:41 docCosine:0.28449801290209464
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:42 docCosine:0.06598967427395722
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:44 docCosine:0.20524516679989555
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:45 docCosine:0.294092248902242
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:47 docCosine:0.1551764947138538
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:49 docCosine:0.16377540451170333
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:50 docCosine:0.22012879821236433
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:51 docCosine:1.0992696316479975
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:52 docCosine:0.34781568719383577
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:53 docCosine:0.24554572275247694
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:54 docCosine:0.11797680510453346
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:55 docCosine:0.20698751795125292
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:56 docCosine:0.3925902538130189
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:57 docCosine:0.20583531430477595
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:58 docCosine:0.15245347825964956
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:60 docCosine:0.17394065296120229
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:61 docCosine:0.15635814746222085
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:62 docCosine:0.31407193580178033
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:66 docCosine:0.19866713845052372
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:67 docCosine:0.230864695967041
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:68 docCosine:0.09864309280967332
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:69 docCosine:0.30437582563536986
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:70 docCosine:0.1506129085226826
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:71 docCosine:0.10885030608923303
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:72 docCosine:0.12988354854166795
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:73 docCosine:0.12411383219043301
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:74 docCosine:0.10814029166852156
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:75 docCosine:0.2036567562745511
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:76 docCosine:0.07058163982051167
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:77 docCosine:0.22420022040384413
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:78 docCosine:0.44138373442384965
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:79 docCosine:0.08252286480824163
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:80 docCosine:0.22138889005216741
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:81 docCosine:0.22808232695273234
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:82 docCosine:0.36309557519579655
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:83 docCosine:0.11174668582332124
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:84 docCosine:0.244268870242929
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:85 docCosine:0.24766594322895982
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:88 docCosine:0.08660248265670761
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:89 docCosine:0.16396135690013885
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:90 docCosine:0.09868142545176309
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:91 docCosine:0.14391550888821605
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:92 docCosine:0.37932249094996573
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:94 docCosine:0.19705514048445183
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:95 docCosine:0.3376834761210286
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:96 docCosine:0.1938154778011722
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:97 docCosine:0.14407642637189297
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:98 docCosine:0.24117251636808515
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:100 docCosine:0.21669071917881283
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:101 docCosine:0.4324795276578552
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:102 docCosine:0.5354151416281143
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:103 docCosine:0.18685596871911236
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:104 docCosine:0.31576782516684915
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:107 docCosine:0.10901353621242538
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:108 docCosine:0.18029397529643237
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:110 docCosine:0.24619803944452628
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:114 docCosine:0.27890377500159785
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:118 docCosine:0.08375439794174319
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:119 docCosine:0.2379000163190459
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:120 docCosine:0.35414664494403014
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:121 docCosine:0.15199613729904282
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:122 docCosine:0.14163154516331117
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:123 docCosine:0.23544817947691082
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:124 docCosine:0.14337927410374737
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:125 docCosine:0.07022295484190491
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:128 docCosine:0.08128700870041947
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:129 docCosine:0.14841079982851363
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:131 docCosine:0.05949649558974633
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:135 docCosine:0.21826931109584305
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:139 docCosine:0.1554245194259814
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:140 docCosine:0.12566215819761287
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:141 docCosine:0.5957058941057249
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:142 docCosine:0.45680019088004986
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:144 docCosine:0.34020930912708053
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:145 docCosine:0.22974362242852284
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:146 docCosine:0.07251948440418235
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:147 docCosine:0.18853271526987742
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:152 docCosine:0.1762214670984277
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:154 docCosine:0.21347177813773177
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:156 docCosine:0.30003668566590114
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:157 docCosine:0.0731036690732962
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:158 docCosine:0.2972467918193857
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:159 docCosine:0.21978887516025544
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:160 docCosine:0.23371662893054876
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:163 docCosine:0.16865586466801952
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:164 docCosine:0.1648142709094861
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:165 docCosine:0.14513426643578567
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:166 docCosine:0.25937364707313737
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:168 docCosine:0.24297875344666645
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:169 docCosine:0.27860926144598963
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:170 docCosine:0.20045698630140923
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:172 docCosine:0.41591939221991314
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:173 docCosine:0.061199454192744994
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:174 docCosine:0.2157157243471718
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:176 docCosine:0.21176879316798503
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:177 docCosine:0.1429701528274836
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:179 docCosine:0.11117798589897715
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:180 docCosine:0.2029984320105213
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:181 docCosine:0.2817413010313464
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:183 docCosine:0.08941386794321556
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:184 docCosine:0.7074515959646566
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:185 docCosine:0.16354338784250674
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:187 docCosine:0.12842925258980692
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:189 docCosine:0.05379394410822776
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:192 docCosine:0.1656117778324751
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:193 docCosine:0.4078582668966314
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:195 docCosine:0.37821931306078854
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:197 docCosine:0.2682330565043489
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:198 docCosine:0.1230224337146513
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:199 docCosine:0.057410423367737454
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:201 docCosine:0.07746335737103373
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:202 docCosine:0.29375657522242266
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:203 docCosine:0.379292898023926
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:204 docCosine:0.3943365020119074
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:205 docCosine:0.06124699832099867
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:206 docCosine:0.12754424877036133
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:208 docCosine:0.09333685969836568
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:209 docCosine:0.34352614389858
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:211 docCosine:0.2591728949906184
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:212 docCosine:0.11593894269493471
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:213 docCosine:0.1383836313062333
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:214 docCosine:0.4103106767856294
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:215 docCosine:0.1809464989745768
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:216 docCosine:0.30495725396422413
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:217 docCosine:0.10066315333475238
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:218 docCosine:0.06840280878375653
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:219 docCosine:0.3324742515111795
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:220 docCosine:0.16486747824913398
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:222 docCosine:0.16020141504480984
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:223 docCosine:0.14894007643545185
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:225 docCosine:0.1514060313808359
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:226 docCosine:0.2480991918420932
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:227 docCosine:0.08670814833930052
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:229 docCosine:0.1448837854977903
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:230 docCosine:0.07406977196633396
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:232 docCosine:0.13523006304388266
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:235 docCosine:0.1817173436940556
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:236 docCosine:0.08857853670775893
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:237 docCosine:0.15342179702815648
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:238 docCosine:0.24973870595544073
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:239 docCosine:0.16278726629365906
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:240 docCosine:0.3796352338705587
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:242 docCosine:0.23755625675832864
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:243 docCosine:0.1038017789156828
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:244 docCosine:0.31867716056823114
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:245 docCosine:0.08864720088116868
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:248 docCosine:0.15463343466410584
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:251 docCosine:0.3523983974228489
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:252 docCosine:0.5364052841093723
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:253 docCosine:0.433261616921791
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:255 docCosine:0.07758310251933899
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:260 docCosine:0.21811555270619173
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:261 docCosine:0.13734592867265094
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:262 docCosine:0.2771860846670022
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:263 docCosine:0.2647272241651593
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:264 docCosine:0.1968008765276805
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:266 docCosine:0.06791964705745053
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:267 docCosine:0.21309668714698307
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:268 docCosine:0.15252712877717173
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:269 docCosine:0.2277444038251401
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:270 docCosine:0.16965379959571766
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:272 docCosine:0.17794429818504906
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:274 docCosine:0.25278259541247367
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:280 docCosine:0.5252028452167294
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:283 docCosine:0.4076084342367737
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:284 docCosine:0.1036896443159225
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:285 docCosine:0.28588260447063485
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:287 docCosine:0.14851311219388513
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:288 docCosine:0.20790665419486354
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:292 docCosine:0.27556287656612843
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:293 docCosine:0.34770135060882634
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:294 docCosine:0.33010611664941064
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:295 docCosine:0.2298863213212275
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:296 docCosine:0.1409545230944883
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:297 docCosine:0.14536902601385318
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:300 docCosine:0.24721626066809996
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:302 docCosine:0.4388062648636863
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:303 docCosine:0.29469613153894464
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:304 docCosine:0.12883496068810674
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:305 docCosine:0.3569960864728608
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:306 docCosine:0.2179884717507734
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:307 docCosine:0.09011291937208783
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:308 docCosine:0.08674016993738813
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:309 docCosine:0.39326325136238893
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:310 docCosine:0.08222086538928795
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:311 docCosine:0.28372329917870653
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:314 docCosine:0.20633458615451258
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:315 docCosine:0.41280450737403385
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:316 docCosine:0.47938116671941616
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:319 docCosine:0.09575880592590166
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:321 docCosine:0.1905956667458819
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:325 docCosine:0.1564117252355492
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:327 docCosine:0.27129546881449795
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:328 docCosine:0.3858007807885168
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:329 docCosine:0.4440248022108036
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:331 docCosine:0.11273453815452229
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:332 docCosine:0.39045617404440636
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:333 docCosine:0.1099597572196903
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:334 docCosine:0.16710352862748104
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:335 docCosine:0.10256658182190025
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:338 docCosine:0.16579940907055754
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:339 docCosine:0.20332685847586116
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:342 docCosine:0.23414974458235785
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:343 docCosine:0.19913606191013342
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:344 docCosine:0.09753517298747387
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:345 docCosine:0.25965083620102347
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:347 docCosine:0.1965070126340737
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:348 docCosine:0.19160277192607686
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:349 docCosine:0.2398199609958829
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:350 docCosine:0.26032944698453026
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:352 docCosine:0.3015290948067434
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:353 docCosine:0.3495167324874143
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:354 docCosine:0.32813695423109845
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:358 docCosine:0.2549397691014607
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:359 docCosine:0.5328306371670695
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:360 docCosine:0.08982013059555201
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:364 docCosine:0.31119033676691016
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:366 docCosine:0.1562104103571557
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:369 docCosine:0.07008607511691924
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:370 docCosine:0.15899472789079688
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:371 docCosine:0.08064479242139447
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:373 docCosine:0.15820090017568947
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:374 docCosine:0.3093140019696553
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:375 docCosine:0.06923190240095882
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:378 docCosine:0.5994965269056558
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:380 docCosine:0.08992793276579282
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:383 docCosine:0.1535180893446006
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:387 docCosine:0.24560731702681077
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:388 docCosine:0.08434391539622578
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:390 docCosine:0.09475393082192508
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:391 docCosine:0.3058734538645176
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:395 docCosine:0.29872207244708804
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:396 docCosine:0.24024815175805578
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:397 docCosine:0.09956947222497983
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:398 docCosine:0.30192214789486144
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:399 docCosine:0.30233141247524176
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:401 docCosine:0.05805811717599957
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:404 docCosine:0.08982827976312378
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:406 docCosine:0.3367972096708418
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:407 docCosine:0.19250791695675595
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:410 docCosine:0.16984594626928043
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:413 docCosine:0.13643867319833342
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:414 docCosine:0.2729357787339714
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:415 docCosine:0.25727971575956055
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:416 docCosine:0.23642789062632305
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:417 docCosine:0.05286262366342689
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:420 docCosine:0.1445065088161707
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:421 docCosine:0.21549438599410256
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:423 docCosine:0.15510431949724446
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:429 docCosine:0.5563688578238234
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:430 docCosine:0.4311614142703437
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:431 docCosine:0.28628283205516725
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:433 docCosine:0.13973958712959708
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:435 docCosine:0.6980825008960747
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:436 docCosine:0.43797942857545347
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:437 docCosine:0.19726808255021122
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:438 docCosine:0.41198316433621623
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:439 docCosine:0.13074846104646526
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:440 docCosine:0.10164714816616773
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:441 docCosine:0.17087012825111175
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:442 docCosine:0.1528087722592534
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:443 docCosine:0.12253633784143964
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:445 docCosine:0.09503920485147505
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:446 docCosine:0.09935240059036984
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:447 docCosine:0.09923731051857475
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:449 docCosine:0.11191725994966213
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:452 docCosine:0.06425010195428241
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:453 docCosine:0.43425086735194945
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:455 docCosine:0.22885079169331382
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:456 docCosine:0.18108497273196744
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:462 docCosine:0.08740870401610909
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:463 docCosine:0.09859774488743067
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:464 docCosine:0.30085749669144213
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:465 docCosine:0.10048671375333
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:466 docCosine:0.22306036719590439
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:468 docCosine:0.10141580697371486
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:472 docCosine:0.11328535352961507
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:473 docCosine:0.10270212112002206
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:474 docCosine:0.14049975196640324
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:476 docCosine:0.20626706443573728
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:481 docCosine:0.35744589959220646
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:485 docCosine:0.2936237008339408
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:486 docCosine:0.9399007604850087
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:489 docCosine:0.09454178158850123
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:490 docCosine:0.18866833549357973
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:491 docCosine:0.2604888470250933
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:493 docCosine:0.366914848717408
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:494 docCosine:0.1992762668250511
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:495 docCosine:0.2585496609571737
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:497 docCosine:0.34994804828821463
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:499 docCosine:0.061403157067608315
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:500 docCosine:0.24880392130940054
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:502 docCosine:0.2660499143058289
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:506 docCosine:0.09399414029860335
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:508 docCosine:0.17978010403108713
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:509 docCosine:0.2864585931445218
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:511 docCosine:0.08783624901615265
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:513 docCosine:0.3271036985354322
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:516 docCosine:0.19001686361211742
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:518 docCosine:0.1655875969642434
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:519 docCosine:0.21874092472199083
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:520 docCosine:0.21614110313582327
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:522 docCosine:0.33976716090379666
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:524 docCosine:0.2574293633055546
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:525 docCosine:0.09226144431505374
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:526 docCosine:0.4424538252940648
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:529 docCosine:0.18725798181132772
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:530 docCosine:0.09357227360764606
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:536 docCosine:0.17275473995308382
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:538 docCosine:0.16806989464254407
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:539 docCosine:0.23160535440046073
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:540 docCosine:0.27787414780503844
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:541 docCosine:0.12350260450787136
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:542 docCosine:0.2885595942886135
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:543 docCosine:0.10990479732317783
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:546 docCosine:0.3659772471707525
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:547 docCosine:0.0981394211158206
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:549 docCosine:0.28788188571094614
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:550 docCosine:0.21740092065655708
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:552 docCosine:0.35834824510092117
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:553 docCosine:0.26053947257118515
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:554 docCosine:0.25740023423439345
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:555 docCosine:0.23005760245251894
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:559 docCosine:0.24737093012566277
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:560 docCosine:0.2381622683679788
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:562 docCosine:0.07737889776831185
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:563 docCosine:0.16411186138631337
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:564 docCosine:0.3350282991281847
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:565 docCosine:0.23446230278014504
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:566 docCosine:0.35063880406552067
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:567 docCosine:0.08046670917005093
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:568 docCosine:0.21298879078322774
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:569 docCosine:0.06437604867502142
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:570 docCosine:0.10333509761281591
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:571 docCosine:0.35195624109340834
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:572 docCosine:0.30790034326351484
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:573 docCosine:0.472612337427958
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:574 docCosine:0.14934110136010997
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:575 docCosine:0.06889291885554158
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:576 docCosine:0.4523986514263925
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:577 docCosine:0.19437647569924615
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:578 docCosine:0.35400976794463057
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:579 docCosine:0.2079864000476015
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:580 docCosine:0.08601596034818518
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:581 docCosine:0.1063605702456054
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:582 docCosine:0.1889482062497958
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:583 docCosine:0.08980182155591157
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:584 docCosine:0.4464397302665472
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:585 docCosine:0.33818268706689353
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:586 docCosine:0.22104720266275305
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:587 docCosine:0.17083454140688578
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:588 docCosine:0.3564431394750042
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:589 docCosine:0.22762564244507963
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:591 docCosine:0.12463644488497728
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:592 docCosine:0.2362286028652928
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:593 docCosine:0.3097318710782818
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:600 docCosine:0.07796405514109275
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:601 docCosine:0.21721726040933734
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:602 docCosine:0.08413890362259908
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:603 docCosine:0.24869104797404723
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:604 docCosine:0.08228518533447532
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:605 docCosine:0.07976548217125608
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:606 docCosine:0.5879272003450996
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:615 docCosine:0.15900097747961822
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:618 docCosine:0.15432790754675083
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:620 docCosine:0.20218369294576488
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:621 docCosine:0.09119832387072574
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:623 docCosine:0.3200955886593975
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:624 docCosine:0.2299362453459345
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:625 docCosine:0.22714546706459204
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:626 docCosine:0.08502130238760679
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:628 docCosine:0.23824620288621623
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:629 docCosine:0.37597204651691085
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:630 docCosine:0.2223962336608221
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:631 docCosine:0.17537292119758208
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:632 docCosine:0.11038555624602447
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:633 docCosine:0.1049730152151819
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:634 docCosine:0.24215601968022166
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:635 docCosine:0.36873547987708155
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:636 docCosine:0.06565583275142688
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:637 docCosine:0.17977006955458827
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:638 docCosine:0.317792613078895
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:640 docCosine:0.22974385192096225
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:641 docCosine:0.09347092851326576
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:643 docCosine:0.21216273460756363
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:645 docCosine:0.18307637556538894
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:646 docCosine:0.11188926842077371
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:649 docCosine:0.06938429594388756
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:651 docCosine:0.19491653176415502
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:655 docCosine:0.3444538513268653
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:656 docCosine:0.07267543800487895
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:657 docCosine:0.2121815100525385
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:658 docCosine:0.315170996630589
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:660 docCosine:0.06533473643047737
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:661 docCosine:0.17703344400391743
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:662 docCosine:0.19282592403492232
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:663 docCosine:0.5351926615336189
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:665 docCosine:0.5434588556822466
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:666 docCosine:0.34771057962689955
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:667 docCosine:0.20200199928446216
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:668 docCosine:0.20265611030836422
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:669 docCosine:0.10516735231085829
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:670 docCosine:0.42528176469314277
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:671 docCosine:0.14247570083098324
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:672 docCosine:0.22946142335183467
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:673 docCosine:0.05700690459617178
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:675 docCosine:0.22651192769601036
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:676 docCosine:0.16692356310205425
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:677 docCosine:0.06600079235393712
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:679 docCosine:0.14101484085399993
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:681 docCosine:0.1986282093854071
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:682 docCosine:0.07265869122574077
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:683 docCosine:0.2133433007825894
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:685 docCosine:0.3790783125776854
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:686 docCosine:0.2796689272559192
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:687 docCosine:0.25031590111693924
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:689 docCosine:0.16537496801213783
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:690 docCosine:0.1823978904076624
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:695 docCosine:0.1906150220154717
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:698 docCosine:0.09079776676188682
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:699 docCosine:0.07429510278367939
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:700 docCosine:0.38698866924359543
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:701 docCosine:0.1261485358312807
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:702 docCosine:0.07550674127448848
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:703 docCosine:0.11198623234557223
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:704 docCosine:0.1569936179677098
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:707 docCosine:0.40488320835817204
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:708 docCosine:0.1866536860848662
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:709 docCosine:0.23704479366983863
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:710 docCosine:0.11094134086718486
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:711 docCosine:0.3717554742107842
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:712 docCosine:0.2738398581365781
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:713 docCosine:0.172226103479811
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:714 docCosine:0.0965110163073388
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:715 docCosine:0.1927573000864288
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:717 docCosine:0.3744917557339116
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:719 docCosine:0.3117397159077606
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:720 docCosine:0.07755260427699459
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:721 docCosine:0.2112958044040012
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:722 docCosine:0.0837783383465974
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:724 docCosine:0.18623594635626287
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:725 docCosine:0.20348716219733146
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:726 docCosine:0.2760376209420974
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:728 docCosine:0.12342818340036467
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:729 docCosine:0.2569208016068504
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:733 docCosine:0.1403067690565964
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:739 docCosine:0.0643054763030316
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:740 docCosine:0.07730976555962626
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:746 docCosine:0.6603993198053701
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:747 docCosine:0.6707993276372485
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:751 docCosine:0.12149641227921149
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:754 docCosine:0.19815685620300189
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:755 docCosine:0.2740518527615237
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:756 docCosine:0.14343345682002334
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:757 docCosine:0.1194607788763776
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:758 docCosine:0.17758656148070096
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:759 docCosine:0.18175745043991995
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:762 docCosine:0.07699666138061081
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:764 docCosine:0.16079091102767631
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:767 docCosine:0.26041801129446634
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:773 docCosine:0.16428156073329678
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:774 docCosine:0.224437445654532
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:776 docCosine:0.3000413802354706
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:781 docCosine:0.26658904776466785
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:783 docCosine:0.08409035402753345
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:784 docCosine:0.20082374083813065
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:789 docCosine:0.2335913578150149
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:790 docCosine:0.19503430276645323
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:791 docCosine:0.09655523560530953
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:792 docCosine:0.4727889937022778
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:794 docCosine:0.06041563527271308
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:795 docCosine:0.3231046773480263
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:796 docCosine:0.12295608862272464
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:797 docCosine:0.11996206130099783
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:798 docCosine:0.26515111850435147
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:799 docCosine:0.4278822764717703
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:800 docCosine:0.37644834228652974
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:801 docCosine:0.2424694069559666
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:804 docCosine:0.0830089613795741
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:805 docCosine:0.06787466425925691
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:808 docCosine:0.07716596005184533
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:810 docCosine:0.13308433223702182
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:811 docCosine:0.2826830128776701
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:812 docCosine:0.14364020996115504
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:814 docCosine:0.15625374228839456
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:815 docCosine:0.12670002669374908
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:816 docCosine:0.07616009729489863
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:817 docCosine:0.28921391772852556
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:818 docCosine:0.2020137378572837
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:822 docCosine:0.0746624623722996
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:824 docCosine:0.1435284177115126
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:826 docCosine:0.0627738693361696
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:834 docCosine:0.25649836401763365
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:836 docCosine:0.08575860753718723
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:838 docCosine:0.10396446207708812
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:858 docCosine:0.11885097141203373
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:859 docCosine:0.2086090236947475
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:860 docCosine:0.3461278459210511
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:861 docCosine:0.1721860722253609
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:862 docCosine:0.13273956049312957
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:865 docCosine:0.3513560988484181
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:869 docCosine:0.14590468170344217
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:870 docCosine:0.19653537243522534
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:871 docCosine:0.2517601645593352
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:872 docCosine:0.23772212435814238
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:873 docCosine:0.23894647453094744
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:874 docCosine:0.4654864363297256
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:875 docCosine:0.5144126459764953
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:876 docCosine:0.6828037092215936
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:877 docCosine:0.24941772599077167
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:878 docCosine:0.8111422166639186
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:879 docCosine:0.673987394449081
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:880 docCosine:0.3256047675101345
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:882 docCosine:0.1321321477859423
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:883 docCosine:0.21527850209521765
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:884 docCosine:0.2505745734441751
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:886 docCosine:0.24018037482457003
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:888 docCosine:0.09572787709011002
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:894 docCosine:0.120204206416167
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:896 docCosine:0.10570784785481864
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:899 docCosine:0.08215162537526
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:903 docCosine:0.07172247402688645
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:904 docCosine:0.20166323958905688
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:908 docCosine:0.2630592333809383
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:909 docCosine:0.21310229515283183
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:911 docCosine:0.15817671668038866
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:912 docCosine:0.13230837382404748
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:914 docCosine:0.3069679981706706
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:916 docCosine:0.21317343791012877
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:917 docCosine:0.18914862187011838
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:918 docCosine:0.10035177824503835
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:919 docCosine:0.07750622643913384
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:921 docCosine:0.07855562503522252
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:923 docCosine:0.2255188686439924
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:924 docCosine:0.17001177234774972
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:925 docCosine:0.3874181429918925
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:927 docCosine:0.23370081478231686
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:928 docCosine:0.09437913253591158
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:937 docCosine:0.10112507939051214
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:939 docCosine:0.10016446011229656
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:941 docCosine:0.20143320008388488
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:944 docCosine:0.409856210464622
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:945 docCosine:0.33785593263969516
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:946 docCosine:0.09545451237215558
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:947 docCosine:0.11882741341306564
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:948 docCosine:0.07255777167129136
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:951 docCosine:0.10771817873385671
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:959 docCosine:0.21419285295322193
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:960 docCosine:0.09283718963625143
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:961 docCosine:0.08110924572428722
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:962 docCosine:0.26576607031404365
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:963 docCosine:0.2717992578781622
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:964 docCosine:0.0835561854348151
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:966 docCosine:0.18528844043888215
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:968 docCosine:0.14097337545067418
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:972 docCosine:0.07277015947848467
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:973 docCosine:0.17999165875230055
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:974 docCosine:0.07592374877213086
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:975 docCosine:0.08124342144644742
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:976 docCosine:0.27234035466532186
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:978 docCosine:0.1913682963292461
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:979 docCosine:0.1629164500926545
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:980 docCosine:0.1919553385635094
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:981 docCosine:0.3298661909861748
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:982 docCosine:0.5257130691424962
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:983 docCosine:0.23475599542128367
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:986 docCosine:0.21536818514600722
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:987 docCosine:0.13180491926627505
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:990 docCosine:0.07928519544523502
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:991 docCosine:0.33351451926585823
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:994 docCosine:0.18432488318272253
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:997 docCosine:0.1296434981535442
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:998 docCosine:0.17306978640870926
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:999 docCosine:0.17140146262736017
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1000 docCosine:0.072618107643115
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1001 docCosine:0.085396353489843
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1002 docCosine:0.3006733977317224
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1003 docCosine:0.33869663345387996
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1004 docCosine:0.14468962584778294
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1007 docCosine:0.15942076563850358
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1008 docCosine:0.11638417593763423
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1011 docCosine:0.12996343287952142
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1012 docCosine:0.24258184832894955
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1015 docCosine:0.15475533444333686
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1020 docCosine:0.09618852546019803
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1026 docCosine:0.149446134494862
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1027 docCosine:0.10664701270709301
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1028 docCosine:0.08455335903703522
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1034 docCosine:0.21404941795736332
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1037 docCosine:0.2455547329436287
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1040 docCosine:0.24623965179192203
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1041 docCosine:0.1532630782361056
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1042 docCosine:0.31693008998712785
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1043 docCosine:0.16687022912721663
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1048 docCosine:0.1289085412953923
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1050 docCosine:0.18540572867685612
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1051 docCosine:0.21338951787870114
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1056 docCosine:0.0686850319820012
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1059 docCosine:0.07682774516446512
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1061 docCosine:0.16892656535301828
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1062 docCosine:0.15548627700413267
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1063 docCosine:0.4432502986032275
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1064 docCosine:0.21842949562424957
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1065 docCosine:0.08243476541141763
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1066 docCosine:0.15014610881651586
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1071 docCosine:0.10393460361347723
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1072 docCosine:0.17333717659078918
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1073 docCosine:0.2770158141892962
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1074 docCosine:0.19874314958656986
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1077 docCosine:0.15986744197196467
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1081 docCosine:0.0891966337799484
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1084 docCosine:0.21518382355119817
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1087 docCosine:0.18888482461352882
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1088 docCosine:0.19333381665046143
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1089 docCosine:0.2941266174100727
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1090 docCosine:0.21291504433523678
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1091 docCosine:0.20970639903389107
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1093 docCosine:0.09742900554462465
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1095 docCosine:0.1457738512468028
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1096 docCosine:0.19615882676854324
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1097 docCosine:0.2280264060472314
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1098 docCosine:0.3583506955204698
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1099 docCosine:0.198779473913933
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1100 docCosine:0.154909593243762
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1101 docCosine:0.2980970127411132
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1103 docCosine:0.11041395381553103
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1104 docCosine:0.2545024796688555
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1106 docCosine:0.26235704097296514
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1107 docCosine:0.19397327381729104
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1110 docCosine:0.2604090951178202
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1111 docCosine:0.4431156103137169
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1113 docCosine:0.1702714547829219
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1114 docCosine:0.24401680837357367
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1115 docCosine:0.12318130964021239
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1121 docCosine:0.14933810533825598
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1124 docCosine:0.34777786506200836
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1125 docCosine:0.1660841460008022
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1128 docCosine:0.20697878303213765
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1133 docCosine:0.09545609951155706
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1134 docCosine:0.07165126343457952
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1140 docCosine:0.3260156771350066
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1143 docCosine:0.253770859414879
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1144 docCosine:0.4099141893821601
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1147 docCosine:0.4607280604729347
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1149 docCosine:0.31822531028602286
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1151 docCosine:0.17963196146160973
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1153 docCosine:0.08223353163306879
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1154 docCosine:0.07038358130831529
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1155 docCosine:0.49723244070864797
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1157 docCosine:0.18144191581262836
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1158 docCosine:0.39392373239947637
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1159 docCosine:0.1795329984299718
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1160 docCosine:0.09418089153521478
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1161 docCosine:0.32317788432205236
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1162 docCosine:0.18083488620400318
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1163 docCosine:0.3139740753902912
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1164 docCosine:0.19591053520703297
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1165 docCosine:0.19688638972965083
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1166 docCosine:0.17099954148762106
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1167 docCosine:0.25192073908743584
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1168 docCosine:0.22749553713022747
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1169 docCosine:0.38684655472450663
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1170 docCosine:0.17315708513142541
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1175 docCosine:0.06656416732948225
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1177 docCosine:0.20901921655405606
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1178 docCosine:0.19281227407174506
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1179 docCosine:0.07071953434060696
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1180 docCosine:0.2535854530731052
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1181 docCosine:0.18143080438497533
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1182 docCosine:0.07568725398397372
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1183 docCosine:0.09627482452126851
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1184 docCosine:0.20361924223949326
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1185 docCosine:0.20124269102216383
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1186 docCosine:0.36283467939471453
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1191 docCosine:0.38688069664883595
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1192 docCosine:0.2136937478867443
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1194 docCosine:0.17283163347408106
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1195 docCosine:0.06812936493170745
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1196 docCosine:0.10222898545503585
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1197 docCosine:0.17180733898634928
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1198 docCosine:0.2495529837768178
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1199 docCosine:0.06700372406235727
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1200 docCosine:0.24970263354111782
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1201 docCosine:0.14850711651330364
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1202 docCosine:0.12085594281122883
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1203 docCosine:0.07553287255122673
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1204 docCosine:0.15613622111085793
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1205 docCosine:0.07408256111695677
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1206 docCosine:0.08995365120261002
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1207 docCosine:0.2555048482011704
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1211 docCosine:0.14697618098952134
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1212 docCosine:0.2829697762049096
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1213 docCosine:0.2712792521258838
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1215 docCosine:0.10107845965651971
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1216 docCosine:0.12850416023791952
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1217 docCosine:0.159909015568585
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1218 docCosine:0.22258742589171296
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1219 docCosine:0.40411527986520307
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1222 docCosine:0.12666851228443302
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1224 docCosine:0.07019505268222165
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1225 docCosine:0.23497405858545836
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1226 docCosine:0.3336326746925562
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1229 docCosine:0.06275804381010754
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1230 docCosine:0.13360967084603634
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1232 docCosine:0.1005617204501327
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1235 docCosine:0.10724425380633203
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1236 docCosine:0.21722961255931228
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1239 docCosine:0.11685491964368187
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1241 docCosine:0.08567172385093676
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1242 docCosine:0.07419547560829683
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1244 docCosine:0.27730063143087275
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1246 docCosine:0.3635173955969104
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1248 docCosine:0.05661077644178494
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1250 docCosine:0.3597460357647777
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1251 docCosine:0.08082801510703733
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1252 docCosine:0.13091175069088679
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1253 docCosine:0.09896214095069386
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1254 docCosine:0.09892075461274627
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1255 docCosine:0.2588555189091531
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1258 docCosine:0.18480175030019694
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1260 docCosine:0.194720453606785
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1261 docCosine:0.11150270651260068
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1263 docCosine:0.5395171530402003
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1264 docCosine:0.16746371621349027
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1265 docCosine:0.08488541517374884
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1268 docCosine:0.5476778050768806
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1269 docCosine:0.11494714115786933
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1270 docCosine:0.08877722715001822
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1271 docCosine:0.18106134740266597
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1274 docCosine:0.11470011546008281
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1277 docCosine:0.07164065044602351
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1279 docCosine:0.2790731260728067
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1280 docCosine:0.14142013700234965
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1281 docCosine:0.11973668041232156
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1282 docCosine:0.3204410731337087
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1283 docCosine:0.11905921380494584
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1285 docCosine:0.207971715210171
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1286 docCosine:0.09170696112261302
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1289 docCosine:0.1103504387898928
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1290 docCosine:0.11578061341925835
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1292 docCosine:0.1026104382348856
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1294 docCosine:0.07842186589668924
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1295 docCosine:0.18225479230913652
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1296 docCosine:0.07307476137714077
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1297 docCosine:0.08992291129922488
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1298 docCosine:0.09675160241489202
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1299 docCosine:0.12428555652957858
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1300 docCosine:0.3945242371465719
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1303 docCosine:0.3210451338844086
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1304 docCosine:0.08955807100861708
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1305 docCosine:0.45628944271194277
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1307 docCosine:0.1768986305718188
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1309 docCosine:0.0696129635671816
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1310 docCosine:0.17741977138187914
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1311 docCosine:0.10673965715689068
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1312 docCosine:0.09009609113523709
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1313 docCosine:0.16937267481619608
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1314 docCosine:0.23236014672020056
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1315 docCosine:0.3403023207783838
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1319 docCosine:0.11482728014955866
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1320 docCosine:0.1551966446359339
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1321 docCosine:0.17769887912696244
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1322 docCosine:0.07162564601584956
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1324 docCosine:0.13720712400538948
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1325 docCosine:0.12401959552942315
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1327 docCosine:0.08762027732767924
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1328 docCosine:0.5194783776011995
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1331 docCosine:0.09731620807152334
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1332 docCosine:0.08709156849315877
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1334 docCosine:0.08512204350143063
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1335 docCosine:0.28688501915355863
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1336 docCosine:0.14741109491408136
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1337 docCosine:0.1458401888809916
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1338 docCosine:0.2966807701207427
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1339 docCosine:0.2122479707027396
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1340 docCosine:0.42994824652989394
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1341 docCosine:0.23171797259134724
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1343 docCosine:0.06895137361145885
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1344 docCosine:0.16682381060120594
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1345 docCosine:0.09289372345734064
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1346 docCosine:0.34240298878423786
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1347 docCosine:0.13419833736609849
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1348 docCosine:0.2772063765802843
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1349 docCosine:0.06981414460137961
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1350 docCosine:0.08874159924831204
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1351 docCosine:0.05834149775136402
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1354 docCosine:0.0817258609865828
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1355 docCosine:0.12473053594027445
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1356 docCosine:0.10687670798429114
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1361 docCosine:0.4036260986628555
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1362 docCosine:0.3217336079996908
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1365 docCosine:0.08662991128976388
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1366 docCosine:0.19486087249011186
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1372 docCosine:0.13444723645048332
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1373 docCosine:0.06099829870078842
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1374 docCosine:0.1832201595789232
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1375 docCosine:0.12597114889272773
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1378 docCosine:0.09361371282738512
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1379 docCosine:0.19790234128862402
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1380 docCosine:0.36314476442479765
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1381 docCosine:0.10164940599992488
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1385 docCosine:0.20294711651612926
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1386 docCosine:0.16659748089978857
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1389 docCosine:0.15117531752246588
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1391 docCosine:0.0738397726921457
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1393 docCosine:0.33258274348501937
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1394 docCosine:0.19357829956169134
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1395 docCosine:0.22168704491137314
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1396 docCosine:0.09509034645010056
+[QUERY]:[similar, law, must, obei, construct, aeroelast, model, heat, high, speed, aircraft, .]
+docId:1399 docCosine:0.10907713212409205
