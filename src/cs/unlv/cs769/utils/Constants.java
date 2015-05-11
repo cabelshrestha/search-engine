@@ -8,7 +8,7 @@ import java.io.File;
  * University of Nevada, Las Vegas
  * Spring-2015
  * 
- * Holds constants used throughtout the program.
+ * Holds constants used throughout the program.
  * 
  * @Author Cabel Dhoj Shrestha
  */

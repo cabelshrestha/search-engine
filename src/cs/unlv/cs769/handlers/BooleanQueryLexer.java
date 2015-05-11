@@ -2,6 +2,16 @@ package cs.unlv.cs769.handlers;
 
 import cs.unlv.cs769.engine.BooleanEngine;
 
+/*
+ * Search Engine Assignment
+ * CS769-Advanced Database Management-Dr.Kazem Taghva
+ * University of Nevada, Las Vegas
+ * Spring-2015
+ * 
+ * This class is used to validate a boolean query.
+ * 
+ * @Author Cabel Dhoj Shrestha
+ */
 public class BooleanQueryLexer {
 
 	/*

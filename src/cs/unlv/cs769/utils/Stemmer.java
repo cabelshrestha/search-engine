@@ -30,6 +30,10 @@ package cs.unlv.cs769.utils;
    from Brian Goetz of Quiotix Corporation (brian@quiotix.com).
 
    Release 4
+   
+   
+   @Cabel Dhoj Shrestha
+   Modified and refactored stem() method to make it usable by the engine.
 
 */
 

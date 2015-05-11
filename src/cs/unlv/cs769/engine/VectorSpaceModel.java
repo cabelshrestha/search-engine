@@ -1,18 +1,13 @@
 package cs.unlv.cs769.engine;
 
-import java.io.File;
-import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.regex.Pattern;
 
 import cs.unlv.cs769.components.Dictionary;
 import cs.unlv.cs769.components.InvertedIndex;
-import cs.unlv.cs769.utils.Constants;
 import cs.unlv.cs769.utils.TimeLogger;
 import cs.unlv.cs769.utils.Utils;
 

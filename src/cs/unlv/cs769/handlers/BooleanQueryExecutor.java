@@ -11,6 +11,18 @@ import cs.unlv.cs769.engine.BooleanEngine;
 import cs.unlv.cs769.engine.SearchEngine;
 import cs.unlv.cs769.utils.Utils;
 
+/*
+ * Search Engine Assignment
+ * CS769-Advanced Database Management-Dr.Kazem Taghva
+ * University of Nevada, Las Vegas
+ * Spring-2015
+ * 
+ * This class is executes boolean queries. Validates, cleans,
+ * consumes based on priority and generates set of doc ids as
+ * result.
+ * 
+ * @Author Cabel Dhoj Shrestha
+ */
 public class BooleanQueryExecutor {
 
 	private SearchEngine _searchEngine;
@@ -132,8 +144,6 @@ public class BooleanQueryExecutor {
 		boolean l = false;
 		boolean r = false;
 
-//		System.out.println("Consuming==>" + consumeQuery);
-		
 		while (!consumeQuery.isEmpty()) {
 			if (BooleanEngine.LPAREN.equals(consumeQuery.peek())
 					|| BooleanEngine.RPAREN.equals(consumeQuery.peek())) {

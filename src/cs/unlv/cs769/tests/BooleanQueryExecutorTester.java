@@ -10,7 +10,7 @@ public class BooleanQueryExecutorTester extends BaseTester {
 
 	private static String query1 = "vary";
 	private static String query2 = "vary AND user";
-	private static String query3 = "panama OR NOT user"; //TODO: Ask Dr. Taghva about this.
+	private static String query3 = "panama OR NOT user";
 	private static String query4 = "panama OR NOT user AND vary";
 	private static String query5 = "panama OR NOT ( user AND vary )";
 	private static String query6 = "panama OR NOT ( is AND the )";
@@ -47,9 +47,9 @@ public class BooleanQueryExecutorTester extends BaseTester {
 		executor.process("consolid or const");
 		executor.process("consolid");
 		executor.process("( simplify and considerable )");
-		executor.process("panama OR NOT user"); //check!! panama not in dictionary??
+		executor.process("panama OR NOT user");
 		executor.process("panama OR NOT user AND vary");
-		executor.process("( user AND vary )"); //check!! returns empty set??
+		executor.process("( user AND vary )");
 		executor.process("panama OR NOT ( user AND vary )");
 		executor.process("panama OR NOT ( is AND the )");
 		executor.process("( maddening OR crowd ) AND ( ignoble OR strife )");
@@ -73,10 +73,10 @@ public class BooleanQueryExecutorTester extends BaseTester {
 		runLexer("simplify and ( hello or dead ) and orange");
 		runLexer("vary");
 		runLexer("vary AND user");
-		runLexer("panama OR NOT user");//TODO: Ask Dr.Taghva
+		runLexer("panama OR NOT user");
 		runLexer("panama OR NOT user AND vary");
 		runLexer("panama OR NOT ( user AND vary )");
-		runLexer("panama OR NOT ( is AND the )"); //TODO: Ask Dr.Taghva
+		runLexer("panama OR NOT ( is AND the )");
 		runLexer("( maddening OR crowd ) AND ( ignoble OR strife ) AND ( killed OR slain )");
 	}
 
@@ -149,11 +149,6 @@ public class BooleanQueryExecutorTester extends BaseTester {
 			System.out.println(error);
 		else
 			System.out.println("Passed!");
-	}
-
-	private void runBadTests1() {
-		runLexer("consolid or apple and orange and not");//** showing no error
-		//       "-----------------------------------^"     
 	}
 
 	public static void main(String[] args) {
