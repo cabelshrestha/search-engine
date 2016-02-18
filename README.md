@@ -1,10 +1,10 @@
 # Search Engine
 
 
-* Vector Space Model
-* *
+## Vector Space Model
+
  
 
 
-* Boolean Engine
-**
+## Boolean Engine
+ 
