@@ -28,14 +28,13 @@ public class Main {
 		t.start();
 		try {
 			
-//			args = new String[] {"a4"};
+			args = new String[] {"a3"};
 			if(args.length == 0 ) {
 				Main.printUsage();
 				return;
 			}
 
 			SearchEngine engine = new SearchEngine();
-			engine.run();
 			
 			for(int i=0; i<args.length; i++) {
 				if (args.length != 0) {

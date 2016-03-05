@@ -7,6 +7,8 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
+import cs.unlv.cs769.engine.SearchEngine;
+
 /*
  * Search Engine Assignment
  * CS769-Advanced Database Management-Dr.Kazem Taghva
@@ -105,6 +107,54 @@ public class Dictionary implements Serializable {
 		public double getIDF() {
 			return this._IDF;
 		}
+
+	}
+	
+	
+	public static void main(String[] args) {
+
+		try {
+			
+			SearchEngine e = new SearchEngine();
+			InvertedIndex invertedIndex = e._invertedIndex;
+			Dictionary dictionary = e._dictionary;
+
+			Dictionary.DictionaryEntry dictEntry = null;
+			String term = null;
+
+			System.out.println("INV_FILE_HASH = {");
+
+			int ctr1 = 0;
+			for (Map.Entry<String, Dictionary.DictionaryEntry> dictPair : dictionary._entryMap.entrySet()) {
+
+				ctr1++;
+
+				term = dictPair.getKey();
+				dictEntry = dictPair.getValue(); 
+
+				List<Integer> docIds = new ArrayList<Integer>(dictEntry._inDocuments);
+				int ctr2 = 0;
+
+				System.out.print("'" + term + "'=>[" + dictEntry._df + ", [");
+				for(Integer dId : docIds) {
+					ctr2++;
+					System.out.print("[" + dId + ",");
+					System.out.print(invertedIndex.getTermFrequency(dId, term) + "]");
+					if(ctr2 != docIds.size())
+						System.out.print(", ");
+				}
+				System.out.print("]]");
+				if(ctr1 != dictionary._entryMap.size())
+					System.out.print(",");
+				System.out.println();
+			}
+
+			System.out.print("}");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 
 	}
 }

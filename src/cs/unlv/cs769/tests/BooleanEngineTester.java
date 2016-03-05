@@ -6,6 +6,7 @@ import cs.unlv.cs769.utils.TimeLogger;
 
 public class BooleanEngineTester extends BaseTester {
 
+	//precedence (/),NOT, AND/OR
 
 	private static String query1 = "vary";
 	private static String query2 = "vary AND user";
@@ -57,7 +58,6 @@ public class BooleanEngineTester extends BaseTester {
 		SearchEngine engine = null;
 		try {
 			engine = new SearchEngine();
-			engine.run();
 		} catch(Exception e) {
 			e.printStackTrace();
 		}

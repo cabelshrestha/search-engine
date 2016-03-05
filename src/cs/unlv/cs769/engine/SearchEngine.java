@@ -1,7 +1,12 @@
 package cs.unlv.cs769.engine;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 import java.util.StringTokenizer;
 
 import cs.unlv.cs769.components.CranDocument;
@@ -32,6 +37,10 @@ public class SearchEngine {
 
 	boolean isTest = false;
 	
+	public SearchEngine() throws Exception {
+		run();
+	}
+
 	private void initialize() throws Exception {
 		this._documents = new ArrayList<CranDocument>();
 		this._invertedIndex = new InvertedIndex();
@@ -126,5 +135,4 @@ public class SearchEngine {
 		this._dictionary.add(docId, term);
 		this._invertedIndex.add(docId, term);
 	}
-
 }

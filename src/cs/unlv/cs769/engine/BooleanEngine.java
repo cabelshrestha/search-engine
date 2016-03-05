@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import cs.unlv.cs769.components.Dictionary;
-import cs.unlv.cs769.utils.Utils;
+import cs.unlv.cs769.utils.Operator;
 
 /*
  * Search Engine Assignment
@@ -19,20 +19,63 @@ import cs.unlv.cs769.utils.Utils;
  */
 public class BooleanEngine {
 
-	public static final String LPAREN = "(";
-	public static final String RPAREN = ")";
-	public static final String NOT = "not";
-	public static final String AND = "and";
-	public static final String OR = "or";
-
 	private Dictionary _dictionary;
 
 	public BooleanEngine() {
-		
+
 	}
-	
+
 	public BooleanEngine(Dictionary d) {
 		this._dictionary = d;
+	}
+
+	public Set<Integer> consumePostFix(Object left, Object right, String op) {
+
+		boolean isAnd = false;
+		boolean isNot = false;
+		Set<Integer> result = null;
+
+		if (op != null) {
+			if (Operator.AND.equalsIgnoreCase(op)) {
+				isAnd = true;
+			} else if (Operator.NOT.equalsIgnoreCase(op)) {
+				isNot = true;
+			}
+		}
+
+		if (left == null && right == null) {
+			return new TreeSet<Integer>();
+		} else if (left != null && right == null) {
+			result = single(left, isNot);
+		} else if (left == null && right != null) {
+			result = single(right, isNot);
+		} else if (left instanceof String && right instanceof String) {
+			if (isAnd) {
+				result = AND((String) left, (String) right, isNot);
+			} else {
+				result = OR((String) left, (String) right, isNot);
+			}
+		} else if (left instanceof Set<?> && right instanceof String) {
+			if (isAnd) {
+				result = AND((Set<Integer>) left, (String) right, isNot);
+			} else {
+				result = OR((Set<Integer>) left, (String) right, isNot);
+			}
+		} else if (left instanceof String && right instanceof Set<?>) {
+			if (isAnd) {
+				result = AND((String) left, (Set<Integer>) right, isNot);
+			} else {
+				result = OR((String) left, (Set<Integer>) right, isNot);
+			}
+		} else if (left instanceof Set<?> && right instanceof Set<?>) {
+			if (isAnd) {
+				result = AND((Set<Integer>) left, (Set<Integer>) right, isNot);
+			} else {
+				result = OR((Set<Integer>) left, (Set<Integer>) right, isNot);
+			}
+		}
+
+		return result;
 	}
 
 	public Set<Integer> consume(Object left, Object right, List<Object> ops) {
@@ -43,11 +86,11 @@ public class BooleanEngine {
 
 		if (ops != null) {
 			String op;
-			for(int i = 0; i < ops.size(); i++) {
+			for (int i = 0; i < ops.size(); i++) {
 				op = (String) ops.get(i);
-				if (AND.equalsIgnoreCase(op)) {
+				if (Operator.AND.equalsIgnoreCase(op)) {
 					isAnd = true;
-				} else if ( NOT.equalsIgnoreCase(op)) {
+				} else if (Operator.NOT.equalsIgnoreCase(op)) {
 					isNot = true;
 				}
 			}
@@ -90,18 +133,22 @@ public class BooleanEngine {
 
 	public Set<Integer> single(Object a, boolean isNot) {
 		Set<Integer> result = new TreeSet<Integer>();
-		if(a instanceof String) {
-			Dictionary.DictionaryEntry e = this._dictionary.getEntry((String)a);
+		if (a instanceof String) {
+			Dictionary.DictionaryEntry e = this._dictionary.getEntry((String) a);
 			Set<Integer> inDocs = new TreeSet<Integer>();
-			if(e != null)
+			if (e != null)
 				inDocs = e._inDocuments;
 			if (isNot) {
 				result = NOT(inDocs);
 			} else {
 				result = inDocs;
 			}
-		} else if( a instanceof Set<?>) {
-			result = (Set<Integer>) a;
+		} else if (a instanceof Set<?>) {
+			if (isNot) {
+				result = NOT((Set<Integer>) a);
+			} else {
+				result = (Set<Integer>) a;
+			}
 		}
 		return result;
 	}
@@ -113,15 +160,15 @@ public class BooleanEngine {
 		Set<Integer> left = new TreeSet<Integer>();
 		Set<Integer> right = new TreeSet<Integer>();
 
-		if ( e1 != null) {
+		if (e1 != null) {
 			left = e1._inDocuments;
-		} 
-		
-		if ( e2 != null) {
-			right = e2._inDocuments;
-		} 
+		}
 
-		if(isNot) {
+		if (e2 != null) {
+			right = e2._inDocuments;
+		}
+
+		if (isNot) {
 			right = NOT(right);
 		}
 
@@ -132,16 +179,16 @@ public class BooleanEngine {
 		Dictionary.DictionaryEntry e2 = this._dictionary.getEntry(r);
 
 		Set<Integer> right = new TreeSet<Integer>();
-		
-		if ( l == null ) {
-			l =  new TreeSet<Integer>();
+
+		if (l == null) {
+			l = new TreeSet<Integer>();
 		}
 
-		if ( e2 != null) {
+		if (e2 != null) {
 			right = e2._inDocuments;
-		} 
-		
-		if(isNot) {
+		}
+
+		if (isNot) {
 			right = NOT(right);
 		}
 
@@ -153,32 +200,32 @@ public class BooleanEngine {
 
 		Set<Integer> left = new TreeSet<Integer>();
 
-		if ( e1 != null) {
+		if (e1 != null) {
 			left = e1._inDocuments;
-		} 
-	
+		}
+
 		if (r == null) {
 			r = new TreeSet<Integer>();
 		}
-		
-		if(isNot) {
+
+		if (isNot) {
 			r = NOT(r);
 		}
 
 		return AND(left, r);
 	}
-	
+
 	public Set<Integer> AND(Set<Integer> l, Set<Integer> r, boolean isNot) {
 
-		if ( l == null) {
+		if (l == null) {
 			l = new TreeSet<Integer>();
-		} 
-		
-		if ( r == null) {
-			r = new TreeSet<Integer>();
-		} 
+		}
 
-		if(isNot) {
+		if (r == null) {
+			r = new TreeSet<Integer>();
+		}
+
+		if (isNot) {
 			r = NOT(r);
 		}
 
@@ -192,15 +239,15 @@ public class BooleanEngine {
 		Set<Integer> left = new TreeSet<Integer>();
 		Set<Integer> right = new TreeSet<Integer>();
 
-		if ( e1 != null) {
+		if (e1 != null) {
 			left = e1._inDocuments;
-		} 
-		
-		if ( e2 != null) {
-			right = e2._inDocuments;
-		} 
+		}
 
-		if(isNot) {
+		if (e2 != null) {
+			right = e2._inDocuments;
+		}
+
+		if (isNot) {
 			right = NOT(right);
 		}
 
@@ -212,15 +259,15 @@ public class BooleanEngine {
 
 		Set<Integer> right = new TreeSet<Integer>();
 
-		if ( l == null) {
+		if (l == null) {
 			l = new TreeSet<Integer>();
-		} 
-		
-		if ( e2 != null) {
+		}
+
+		if (e2 != null) {
 			right = e2._inDocuments;
 		}
-		
-		if(isNot) {
+
+		if (isNot) {
 			right = NOT(right);
 		}
 
@@ -232,15 +279,15 @@ public class BooleanEngine {
 
 		Set<Integer> left = new TreeSet<Integer>();
 
-		if ( e1 != null) {
+		if (e1 != null) {
 			left = e1._inDocuments;
-		} 
-		
-		if ( r == null) {
+		}
+
+		if (r == null) {
 			r = new TreeSet<Integer>();
-		} 
-		
-		if(isNot) {
+		}
+
+		if (isNot) {
 			r = NOT(r);
 		}
 
@@ -249,21 +296,21 @@ public class BooleanEngine {
 
 	public Set<Integer> OR(Set<Integer> l, Set<Integer> r, boolean isNot) {
 
-		if ( l == null) {
+		if (l == null) {
 			l = new TreeSet<Integer>();
-		} 
-		
-		if ( r == null) {
+		}
+
+		if (r == null) {
 			r = new TreeSet<Integer>();
-		} 
-		
-		if(isNot) {
+		}
+
+		if (isNot) {
 			r = NOT(r);
 		}
 
 		return OR(l, r);
 	}
-	
+
 	public Set<Integer> AND(Set<Integer> a, Set<Integer> b) {
 		Set<Integer> result = new TreeSet<Integer>();
 		for (Integer i : a)
@@ -277,30 +324,14 @@ public class BooleanEngine {
 		result.addAll(b);
 		return result;
 	}
-	
+
 	public Set<Integer> NOT(Set<Integer> inDocs) {
 		Set<Integer> result = new TreeSet<Integer>();
-		for(Integer i : this._dictionary._universe) {
-			if(!inDocs.contains(i))
+		for (Integer i : this._dictionary._universe) {
+			if (!inDocs.contains(i))
 				result.add(i);
 		}
 		return result;
-	}
-
-	public static boolean isOperator(Object val) {
-		
-		if (val instanceof String) {
-			String op = (String) val;
-			if (Utils.isNotEmpty(op)) {
-				if (LPAREN.equalsIgnoreCase(op) || RPAREN.equalsIgnoreCase(op)
-						|| AND.equalsIgnoreCase(op) || OR.equalsIgnoreCase(op)
-						|| NOT.equalsIgnoreCase(op)) {
-					return true;
-				}
-			}	
-		}
-		
-		return false;
 	}
 
 }

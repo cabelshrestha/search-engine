@@ -1,10 +1,16 @@
 package cs.unlv.cs769.components;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import cs.unlv.cs769.engine.SearchEngine;
 
 /*
  * Search Engine Assignment
@@ -155,6 +161,33 @@ public class InvertedIndex {
 			return (this._term).compareTo(o._term);
 		}
 
+	}
+	
+	public static void main(String[] args) {
+
+		try {
+			SearchEngine engine = new SearchEngine();
+			InvertedIndex invertedIndex = engine._invertedIndex;
+			List<InvertedIndex.InvertedIndexEntry> entries = null;
+
+			for (Map.Entry<Integer, List<InvertedIndex.InvertedIndexEntry>> entryPair : invertedIndex._entryMap.entrySet()) {
+
+				entries = entryPair.getValue(); 
+
+				System.out.println("----------------------------------------------------");
+				System.out.println("DOCUMENT-ID: " + entryPair.getKey());
+				System.out.println("NUMBER OF UNIQUE TERMS: " + entries.size());
+				System.out.println("----------------------------------------------------");
+				
+				Collections.sort(entries);
+				for(InvertedIndex.InvertedIndexEntry entry : entries) {
+					System.out.println(entry.serialize());
+				}
+				System.out.println("\n");
+			}	
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 
 }

@@ -1,6 +1,8 @@
 package cs.unlv.cs769.handlers;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -15,6 +17,7 @@ import cs.unlv.cs769.engine.BooleanEngine;
 import cs.unlv.cs769.engine.SearchEngine;
 import cs.unlv.cs769.engine.VectorSpaceModel;
 import cs.unlv.cs769.engine.VectorSpaceModel.Result;
+import cs.unlv.cs769.utils.Constants;
 import cs.unlv.cs769.utils.Utils;
 
 /*
@@ -135,5 +138,26 @@ public class NormalQueryProcessor {
 			}
 		}
 		return result;
+	}
+	
+	public static void main(String[] args) {
+
+		try {
+			NormalQueryProcessor queryProcessor = new NormalQueryProcessor(new SearchEngine());
+			List<Result> results = queryProcessor.process(Constants.CRAN_QRY_FILE, Constants.CRAN_QRYREL_FILE);
+			
+			for (Result result : results) {
+				System.out.println("\n========================================");
+				System.out.println("[Query No.]: " + result.getQryId());
+				System.out.println("[Total Documents Retrieved]: " + result.getQryResult().size());
+				System.out.println("[Precision]: " + result.getPrecision());
+				System.out.println("[Recall]: " + result.getRecall());
+				System.out.print("[");
+				System.out.print(Utils.printableList(result.getQryResult()));
+				System.out.print("]");
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 	}
 }

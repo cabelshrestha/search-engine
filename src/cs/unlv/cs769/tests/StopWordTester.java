@@ -7,8 +7,8 @@ import cs.unlv.cs769.utils.TimeLogger;
 
 public class StopWordTester extends BaseTester {
 
-	public StopWordTester() {
-		super(new SearchEngine(), "StopWordTester");
+	public StopWordTester(SearchEngine e) {
+		super(e, "StopWordTester");
 	}
 
 	@Override
@@ -36,8 +36,13 @@ public class StopWordTester extends BaseTester {
 		TimeLogger t = new TimeLogger("Main");
 		t.start();
 
-		BaseTester o = new StopWordTester();
-		o.execute();
+		try {
+			SearchEngine e = new SearchEngine();
+			BaseTester o = new StopWordTester(e);
+			o.execute();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 
 		t.stop();
 

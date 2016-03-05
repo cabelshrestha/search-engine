@@ -1,6 +1,6 @@
 package cs.unlv.cs769.handlers;
 
-import cs.unlv.cs769.engine.BooleanEngine;
+import cs.unlv.cs769.utils.Operator;
 
 /*
  * Search Engine Assignment
@@ -21,6 +21,9 @@ public class BooleanQueryLexer {
 	 * - missing opening or closing parenthesis 
 	 * - 2 operators in sequence and second op not being "NOT"
 	 * -add a condition flag for proper ending : can be "term" or ")"
+	 * 
+	 * Note to self: shitty code...but need to meet deadline. 
+	 * TODO: do it in a better way!!
 	 */
 	public String validate(String query) {
 		String[] lexemes = query.split(" ");
@@ -38,12 +41,12 @@ public class BooleanQueryLexer {
 			currentEndIndex += l.length() + 1;
 
 			if (termCheck) {
-				if (BooleanEngine.isOperator(l)) {
-					if (BooleanEngine.LPAREN.equals(l)) {
+				if (Operator.isOp(l)) {
+					if (Operator.LPAREN.equals(l)) {
 						parenCount++;
 						properTermination = false;
 						continue;
-					} else if (BooleanEngine.RPAREN.equals(l)) {
+					} else if (Operator.RPAREN.equals(l)) {
 						errIndex = currentEndIndex;
 						properTermination = true;
 						parenCount = 0;
@@ -60,18 +63,18 @@ public class BooleanQueryLexer {
 					continue;
 				}
 			} else {
-				if (!BooleanEngine.isOperator(l)) {
+				if (Operator.isNotOp(l)) {
 					errIndex = currentEndIndex - l.length();
 					properTermination = true;
 					parenCount=0;
 					break;
 				} else {
-					if (BooleanEngine.LPAREN.equals(l)) {
+					if (Operator.LPAREN.equals(l)) {
 						errIndex = currentEndIndex;
 						properTermination = true;
 						parenCount = 0;
 						break;
-					} else if (BooleanEngine.RPAREN.equals(l)) {
+					} else if (Operator.RPAREN.equals(l)) {
 						parenCount--;
 						properTermination = true;
 						termCheck = false;
@@ -82,17 +85,17 @@ public class BooleanQueryLexer {
 							properTermination = true;
 							parenCount = 0;
 							break;
-						} else if (BooleanEngine.isOperator(lexemes[i + 1])) {
-							if (lexemes[i + 1].equalsIgnoreCase(BooleanEngine.NOT)) {
+						} else if (Operator.isOp(lexemes[i + 1])) {
+							if (lexemes[i + 1].equalsIgnoreCase(Operator.NOT)) {
 								currentEndIndex += lexemes[i+1].length();
 								properTermination = false;
 								i++;
-							} else if(lexemes[i + 1].equalsIgnoreCase(BooleanEngine.LPAREN)) {
+							} else if(lexemes[i + 1].equalsIgnoreCase(Operator.LPAREN)) {
 								parenCount++;
 								currentEndIndex += lexemes[i+1].length();
 								properTermination = false;
 								i++;
-							} else if(lexemes[i + 1].equalsIgnoreCase(BooleanEngine.RPAREN)) {
+							} else if(lexemes[i + 1].equalsIgnoreCase(Operator.RPAREN)) {
 								parenCount--;
 								currentEndIndex += lexemes[i+1].length();
 								properTermination = true;

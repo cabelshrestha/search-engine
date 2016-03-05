@@ -7,6 +7,7 @@ import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 import cs.unlv.cs769.engine.SearchEngine;
 import cs.unlv.cs769.handlers.BooleanQueryExecutor;
@@ -38,12 +39,15 @@ public class Assignment3 extends BaseAssignment {
 		this._executor = new BooleanQueryExecutor(this._searchEngine);
 
 		this._queries = new ArrayList<String>();
-		this._queries.add("vary");
-		this._queries.add("vary AND user");
-		this._queries.add("panama OR NOT user");
-		this._queries.add("panama OR NOT user AND vary");
-		this._queries.add("panama OR NOT ( user AND vary )");
-		this._queries.add("panama OR NOT ( is AND the )");
+//		this._queries.add("vary");
+//		this._queries.add("vary AND user");
+//		this._queries.add("panama OR NOT user");
+//		this._queries.add("panama OR NOT user AND vary"); //no postfix result
+//		this._queries.add("panama OR NOT ( user AND vary )"); //no postfix result
+		this._queries.add("panama OR NOT ( is AND the )"); //postfix expression creation error
+		// panama is the AND not or
+		//TODO apparently this turns to: panama OR NOT ( AND ) 
+		//so gives an error.
 	}
 
 	@Override

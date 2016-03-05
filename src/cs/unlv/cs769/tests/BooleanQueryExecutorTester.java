@@ -1,5 +1,7 @@
 package cs.unlv.cs769.tests;
 
+import java.util.Set;
+
 import cs.unlv.cs769.engine.SearchEngine;
 import cs.unlv.cs769.handlers.BooleanQueryExecutor;
 import cs.unlv.cs769.handlers.BooleanQueryLexer;
@@ -44,7 +46,10 @@ public class BooleanQueryExecutorTester extends BaseTester {
 	}
 	
 	private void executorTests() throws Exception {
-		executor.process("consolid or const");
+
+		Set<Integer> result = executor.process("consolid or const");
+		System.out.println(Utils.printableSet(result));
+
 		executor.process("consolid");
 		executor.process("( simplify and considerable )");
 		executor.process("panama OR NOT user");
@@ -54,6 +59,8 @@ public class BooleanQueryExecutorTester extends BaseTester {
 		executor.process("panama OR NOT ( is AND the )");
 		executor.process("( maddening OR crowd ) AND ( ignoble OR strife )");
 		executor.process("consolid and ( user AND vary ) or ( panama OR NOT ( simplify and considerable ) )");
+		executor.process("vari and not user");
+		executor.process("vari and user");
 		
 	}
 	
@@ -158,7 +165,6 @@ public class BooleanQueryExecutorTester extends BaseTester {
 		SearchEngine engine = null;
 		try {
 			engine = new SearchEngine();
-			engine.run();
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
