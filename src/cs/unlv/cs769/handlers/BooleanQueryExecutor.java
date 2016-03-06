@@ -18,11 +18,11 @@ import cs.unlv.cs769.utils.Utils;
  * CS769-Advanced Database Management-Dr.Kazem Taghva
  * University of Nevada, Las Vegas
  * Spring-2015
- * 
+ *
  * This class is executes boolean queries. Validates, cleans,
  * consumes based on priority and generates set of doc ids as
  * result.
- * 
+ *
  * @Author Cabel Dhoj Shrestha
  */
 public class BooleanQueryExecutor {
@@ -40,12 +40,12 @@ public class BooleanQueryExecutor {
 		/*
 		 * Validate query.
 		 */
-		BooleanQueryLexer lexer = new BooleanQueryLexer();
+		/*BooleanQueryLexer lexer = new BooleanQueryLexer();
 		String error = lexer.validate(query);
 		if (Utils.isNotEmpty(error)) {
 			System.out.println(error);
 			return null;
-		}
+		}*/
 
 		Set<Integer> result = null;
 
@@ -69,7 +69,7 @@ public class BooleanQueryExecutor {
 		} catch (Exception e) {
 			/*
 			 * After scrubbing, so query terms are removed like articles etc.
-			 * e.g.panama or is => panama or  
+			 * e.g.panama or is => panama or
 			 */
 			System.out.println("Cannot process query:" + postfixQuery);
 			return null;
